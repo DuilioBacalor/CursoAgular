@@ -1,5 +1,5 @@
-import { calculaISV } from "./ejercicios/06-desestructuracion-funcion";
-import { Producto } from "./ejercicios/06-desestructuracion-funcion";
+import { calculaISV } from "./06-desestructuracion-funcion";
+import { Producto } from "./06-desestructuracion-funcion";
 
 const carritoCompras:Producto[]=[
     {
